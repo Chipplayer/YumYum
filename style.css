@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css?family=Archivo Black');
+@import url('https://fonts.googleapis.com/css?family=Nunito|Raleway');
+@import url('https://fonts.googleapis.com/css?family=Nunito|Quicksand');
+
+
+
+#logo {
+    font-family: 'Archivo Black', sans-serif;
+    font-size: 28px;
+
+}
+
+.welcometext {
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+.searchbar {
+    height: 36px;
+    width:340px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+}
